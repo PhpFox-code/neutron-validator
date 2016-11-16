@@ -1,6 +1,6 @@
 {
   "name": "codelego/phpfox-validator",
-  "description": "PhpFox Validator Component",
+  "description": "Validator library for phpfox framework.",
   "type": "library",
   "license": "MIT",
   "authors": [
