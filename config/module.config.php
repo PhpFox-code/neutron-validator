@@ -3,5 +3,4 @@
 namespace Phpfox\Validator;
 
 return [
-    'factories' => [],
 ];
