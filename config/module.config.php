@@ -2,5 +2,4 @@
 
 namespace Phpfox\Validator;
 
-return [
-];
+return [];
